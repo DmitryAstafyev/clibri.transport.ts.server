@@ -7,7 +7,7 @@ import {
 	guid,
 	Logger,
 	DefaultLogger,
-} from "fiber";
+} from "clibri";
 
 export interface IConnectionSubjects {
 	disconnected: Subject<void>;

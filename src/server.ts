@@ -12,7 +12,7 @@ import {
 	guid,
 	Logger,
 	DefaultLogger,
-} from "fiber";
+} from "clibri";
 
 export interface IServerOptions {
 	logger?: Logger;
