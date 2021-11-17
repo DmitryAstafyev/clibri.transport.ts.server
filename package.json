@@ -1,6 +1,6 @@
 {
 	"name": "clibri-websocket-server",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"description": "WebSocket based server for clibri project",
 	"main": "./dist/index.js",
 	"types": "./dist/index.d.ts",
@@ -29,5 +29,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/DmitryAstafyev/clibri.transport.ts.server"
-	}
+	},
+	"files": ["/dist"]
 }
